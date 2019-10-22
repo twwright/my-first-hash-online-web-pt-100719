@@ -1,5 +1,5 @@
 def my_hash
-  my_has = {key: value}
+  my_has = {"key" => "value"}
 end
 
 def shipping_manifest
